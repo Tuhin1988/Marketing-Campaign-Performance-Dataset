@@ -27,7 +27,7 @@ It enables data-driven decision-making by tracking key marketing KPIs, visualizi
 ## 🛠 Tools & Technologies
 
 * Power BI
-* Excel
+* Small portion of csv Dataset
 * Power Query (Data Transformation)
 * DAX (Custom KPIs & Measures)
 
@@ -57,7 +57,7 @@ It enables data-driven decision-making by tracking key marketing KPIs, visualizi
 ## 📂 Files Included
 
 * `Digital Marketing Dashboard.pbix` → Main Power BI dashboard file
-* `marketing_data.xlsx` → Dataset used for analysis
+* `marketing_campaign_dataset.csv` → Dataset used for analysis
 * `https://github.com/Tuhin1988/Marketing-Campaign-Performance-Dataset/blob/main/Images/Digital%20Marketing%20Campaign.png → Dashboard preview image
 
 ---
