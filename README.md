@@ -20,7 +20,7 @@ It enables data-driven decision-making by tracking key marketing KPIs, visualizi
 
 ## 📷 Dashboard Preview
 
-![Digital Marketing Dashboard](images/dashboard.png)
+[![Digital Marketing Dashboard](images/dashboard.png)](https://github.com/Tuhin1988/Marketing-Campaign-Performance-Dataset/blob/main/Images/Digital%20Marketing%20Campaign.png)
 
 ---
 
@@ -58,8 +58,7 @@ It enables data-driven decision-making by tracking key marketing KPIs, visualizi
 
 * `Digital Marketing Dashboard.pbix` → Main Power BI dashboard file
 * `marketing_data.xlsx` → Dataset used for analysis
-* `report.pdf` → Exported dashboard report
-* `images/dashboard.png` → Dashboard preview image
+* `https://github.com/Tuhin1988/Marketing-Campaign-Performance-Dataset/blob/main/Images/Digital%20Marketing%20Campaign.png → Dashboard preview image
 
 ---
 
